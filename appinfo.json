@@ -1,0 +1,18 @@
+{
+  "uuid": "9dea2e89-5383-474e-b4bd-9d91fc40519e",
+  "shortName": "arlo",
+  "longName": "arlo",
+  "companyName": "HyTouch Analytics",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
